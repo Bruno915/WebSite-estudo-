@@ -1,0 +1,92 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+/* Menu principal do header*/
+#header-1 {
+    width: 100%;
+    height: 85px;
+    border-bottom: 2px solid #efefef;
+    border-top: 3px solid #00bac6;
+    margin-bottom: 0 auto;
+}
+
+#header-2 {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+#logo {
+    float: left;
+    margin-top: 15px;
+    margin-left: 75px;
+}
+
+/* Menu secundario do header*/
+
+/*Corpo do Formulário de cadastro*/
+
+/*Campos do Formulário de Cadastro*/
+#Form_Nome {
+    height: 40px;
+    width: 425px;
+    font-family: 'Arial';
+    font-size: 18px;
+    color: darkgray;
+    border-radius: 3px;
+    border-color: darkgray;
+    margin-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+#Form_Email {
+    height: 40px;
+    width: 425px;
+    font-family: 'Arial';
+    font-size: 18px;
+    color: darkgray;
+    border-radius: 3px;
+    border-color: darkgray;
+    margin-bottom: 10;
+    margin-bottom: 0px;
+}
+
+#Form_CPF {
+    height: 40px;
+    width: 225px;
+    font-family: 'Arial';
+    font-size: 18px;
+    color: darkgray;
+    border-radius: 3px;
+    border-color: darkgray;
+    margin-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+#Form_Telefone {
+    height: 40px;
+    width: 225px;
+    font-family: 'Arial';
+    font-size: 18px;
+    color: darkgray;
+    border-radius: 3px;
+    border-color: darkgray;
+    margin-bottom: 10;
+    margin-bottom: 0px;
+}
+
+#EnviarMatricula{
+    height: 45px;
+    width: 425px;
+    margin-top: 20px;
+}
+
+#CamposFormulario{
+    height: 45px;
+}
